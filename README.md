@@ -14,7 +14,7 @@
 <code><img alt="JavaScript" title="JavScript" height="20" src="icon/javascript.png"></code>
 <code><img alt="Python" title="Python" height="30" src="icon/python.png"></code>
 <code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
-<code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
+<code><img alt="HTML" title="HTML" height="30" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="icon/vscode.png"></code>
 
 <div align=center>
