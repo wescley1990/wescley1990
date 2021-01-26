@@ -6,7 +6,7 @@
   
   - 🔭 **Atualmente iniciando no mundo Dev**
   - 🌱 **Tenho aprendido:** **Python**, **JavaScript**, **Html/CSS**
-  - 💬 **Ask me about:** 🔋 Tecnologia, :ramen:Animes, :video_game:Jogos e :movie_camera:Filmes e Series.
+  - 💬 **Ask me about:** 🔋 Tecnologia, :ramen:Animes, :video_game:Jogos, :movie_camera:Filmes e Series, :balança: duvidas juridicas
 
 **Linguagens / Tecnologias / Aprendendo:**
 
