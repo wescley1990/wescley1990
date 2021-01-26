@@ -1,4 +1,4 @@
-<img align='right' width=320 src="<img style="-webkit-user-select: none;margin: auto;"> src="https://image.freepik.com/vetores-gratis/quarto-acolhedor-de-garoto-adolescente-no-vetor-de-desenhos-animados-interiores-de-sotao-com-janela-do-telhado_33099-1327.jpg">
+<img style="-webkit-user-select: none;margin: auto;" src="https://image.freepik.com/vetores-gratis/quarto-acolhedor-de-garoto-adolescente-no-vetor-de-desenhos-animados-interiores-de-sotao-com-janela-do-telhado_33099-1327.jpg">
 
 ## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
