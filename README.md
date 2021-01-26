@@ -1,6 +1,6 @@
 <img align='right' width=320 src="https://image.freepik.com/vetores-gratis/quarto-acolhedor-de-garoto-adolescente-no-vetor-de-desenhos-animados-interiores-de-sotao-com-janela-do-telhado_33099-1327.jpg">
 
-## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+### Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"> 
 
 🎓 **Estudante de Ciência da Computação, Universidade Paulista**<br>❤️ **Apaixonado por tecnologia**
   
@@ -20,18 +20,18 @@
 
 <div align=center>
 
-### 🌍 **Fale Comigo:**
+## 🌍 **Fale Comigo:**
 
 <a href="https://www.linkedin.com/in/ygor-lacerda-5450b41a2/" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
+<img width=30 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
 </a>
 
-<a href="https://api.whatsapp.com/send?phone=+5511953625677" target="_blank">
-<img width=50 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
+<a href="https://api.whatsapp.com/send?phone=+5511952466698" target="_blank">
+<img width=30 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
 
 <a href="mailto:ylacerda100@gmail.com?subject=Hello" target="_blank">
-<img width=45 src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+<img width=30 src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
 </a>
 
 
