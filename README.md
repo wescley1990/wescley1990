@@ -30,7 +30,7 @@
 </a>
 
 <a href="mailto:wescley.sp@hotmail.com" target="_blank">
-<img width=30 src="https://www.pngjoy.com/pngm/341/6378976_outlook-logo-microsoft-outlook-calendar-logo-png-download.png">
+<img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png">
 </a>
 
 <a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
