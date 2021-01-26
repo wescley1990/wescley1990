@@ -34,7 +34,7 @@
 </a>
 
 <a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
-<img width=30 src="https://w7.pngwing.com/pngs/479/1015/png-transparent-instagram-logo-social-media-logo-computer-icons-business-sharing-insta-magenta-internet-advertising.png">
+<img width=30 src="https://i.pinimg.com/originals/e1/ab/49/e1ab49180db9a097694ba646d368b510.png">
 </a>
 
 
