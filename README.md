@@ -21,7 +21,7 @@
 
 ## 🌍 **Fale Comigo:**
 
-<a href="https://www.linkedin.com/in/ygor-lacerda-5450b41a2/" target="_blank">
+<a href="https://www.linkedin.com/in/wescley-alves-batista-9627a3198/" target="_blank">
 <img width=30 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
 </a>
 
@@ -29,8 +29,12 @@
 <img width=30 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
 </a>
 
-<a href="mailto:ylacerda100@gmail.com?subject=Hello" target="_blank">
-<img width=30 src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png">
+<a href="mailto:wescley.sp@hotmail.com" target="_blank">
+<img width=30 src="https://icon2.cleanpng.com/20180826/qzl/kisspng-microsoft-outlook-outlook-com-microsoft-corporatio-5b82dea1c48f40.3981951015353033298051.jpg">
+</a>
+
+<a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
+<img width=30 src="https://png.pngtree.com/element_our/md/20180506/md_5aeee1cb35919.jpg">
 </a>
 
 
