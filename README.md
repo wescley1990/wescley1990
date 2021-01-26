@@ -30,7 +30,7 @@
 </a>
 
 <a href="mailto:wescley.sp@hotmail.com" target="_blank">
-<img width=30 src="https://icon2.cleanpng.com/20180826/qzl/kisspng-microsoft-outlook-outlook-com-microsoft-corporatio-5b82dea1c48f40.3981951015353033298051.jpg">
+<img width=30 src="https://w7.pngwing.com/pngs/903/849/png-transparent-microsoft-outlook-outlook-com-email-outlook-on-the-web-hotmail-email-miscellaneous-blue-angle.png">
 </a>
 
 <a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
