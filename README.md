@@ -33,15 +33,15 @@
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=+5511952466698" target="_blank">
-<img width=30 src="https://user-images.githubusercontent.com/38081852/86829802-3b786100-c06b-11ea-9290-94a373b50d6f.png">
+<img width=100 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 <a href="mailto:wescley.sp@hotmail.com" target="_blank">
-<img width=30 src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/1101px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png">
+<img width=100 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
-<img width=30 src="https://i.pinimg.com/originals/e1/ab/49/e1ab49180db9a097694ba646d368b510.png">
+<img width=100 src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
 </div>
