@@ -40,6 +40,6 @@
 
 
 <div>
-![snake animation](wescley1990)  
+![Snake animation](wescley1990)  
 </div>
 ---
