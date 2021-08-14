@@ -29,11 +29,11 @@
 ## 🌍 **Fale Comigo:**
 
 <a href="https://www.linkedin.com/in/wescley-alves-batista-9627a3198/" target="_blank">
-<img width=100 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img width=110 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=+5511952466698" target="_blank">
-<img width=100 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+<img width=110 src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 <a href="mailto:wescley.sp@hotmail.com" target="_blank">
