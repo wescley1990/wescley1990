@@ -38,8 +38,7 @@
 </a>
 
 
-
-<div>
-![Snake animation](wescley1990)  
 </div>
+![Snake animation](wescley1990)  
+
 ---
