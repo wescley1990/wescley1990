@@ -17,6 +17,13 @@
 <code><img alt="HTML" title="HTML" height="30" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
 <code><img alt="Visual Studio Code" title="Visual Studio Code" height="30" src="icon/vscode.png"></code>
 
+<div align="center">
+  <a href="https://github.com/wescley1990">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wescley1990&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescley1990&layout=compact&langs_count=7&theme=omni"/>
+</div> 
+
+
 <div align=center>
 
 ## 🌍 **Fale Comigo:**
