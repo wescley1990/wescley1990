@@ -39,8 +39,7 @@
 
 
 
-</div>
 <div>
-![Snake animation](https://github.com/wescley1990)  
+![snake animation](wescley1990)  
 </div>
 ---
