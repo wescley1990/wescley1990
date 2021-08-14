@@ -29,7 +29,7 @@
 ## 🌍 **Fale Comigo:**
 
 <a href="https://www.linkedin.com/in/wescley-alves-batista-9627a3198/" target="_blank">
-<img width=30 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
+<img width=30 src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=+5511952466698" target="_blank">
