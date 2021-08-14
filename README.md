@@ -37,7 +37,7 @@
 </a>
 
 <a href="mailto:wescley.sp@hotmail.com" target="_blank">
-<img width=100 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+<img width=150 src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
 </a>
 
 <a href="https://www.instagram.com/wescley.sp/?hl=pt-br" target="_blank">
