@@ -41,6 +41,6 @@
 
 </div>
 <div>
-![Snake animation](wescley1990)  
+![Snake animation](https://github.com/wescley1990)  
 </div>
 ---
