@@ -1,11 +1,13 @@
 <img align="right" width="380" src="https://image.freepik.com/vetores-gratis/quarto-acolhedor-de-garoto-adolescente-no-vetor-de-desenhos-animados-interiores-de-sotao-com-janela-do-telhado_33099-1327.jpg"/>
 
-# 👋 Olá, eu sou o Wescley Alves  
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>
+# 👋 Olá, eu sou o Wescley Alves 
 
 Sou formado em Ciência da Computação, com pós-graduação em Inteligência Artificial em Gestão de Negócios.  
 Atualmente em transição para a área de Dados, com foco em projetos práticos.
+
+- 🔭 **Foco atual:** Análise de Dados, Automação e BI  
+- 🌱 **Estudando e aplicando:** **Python**, **SQL**, **Power BI**  
+- 💬 **Interesses:** Tecnologia, Dados, IA aplicada a negócios e soluções analíticas  
 
 ---
 
@@ -51,14 +53,6 @@ Atualmente estudando e aplicando:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescley1990&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescley1990&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
 
 ## 🌍 Fale Comigo
 
