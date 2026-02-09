@@ -2,7 +2,6 @@
 
 # 👋 Olá, eu sou o Wescley Alves  
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"/>
 
 Sou formado em Ciência da Computação, com pós-graduação em Inteligência Artificial em Gestão de Negócios.  
 Atualmente em transição para a área de Dados, com foco em projetos práticos.
@@ -51,14 +50,6 @@ Atualmente estudando e aplicando:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wescley1990&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wescley1990&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
 
 ## 🌍 Fale Comigo
 
